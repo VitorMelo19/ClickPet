@@ -1,5 +1,4 @@
 # 🐾 ClickPet - Sistema Web de Petshop!
----
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b389af7-4467-4ee7-8ff5-3ba260b5a59a" alt="Site_ClickPet" width="800"/>
 </p>
