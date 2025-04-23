@@ -8,8 +8,6 @@
 ---
 
 ## 📑 Funcionalidades Principais
-
-### 🌐 Site Institucional
 - Página inicial com informações sobre a ClickPet.
 - Seções: Home, Sobre Nós, Nossa História, Visão e Missão, Nossos Serviços e Contato.
 - Design moderno, responsivo e com animações.
