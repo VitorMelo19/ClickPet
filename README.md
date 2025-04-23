@@ -1,9 +1,14 @@
 # 🐾 ClickPet - Sistema Web de Petshop!
-**Desenvolvedor:**  
-- [Vitor Melo](https://github.com/vitormelocursos)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b389af7-4467-4ee7-8ff5-3ba260b5a59a" alt="Site_ClickPet" width="800"/>
+</p>
 
-**Professor Orientador:**  
-- [Professor Nome](https://github.com/professor-username)
+## Desenvolvedor:
+- [Vitor Melo](https://github.com/VitorMelo19)
+---
+
+## Professor Orientador:
+- [Me. Franscisco de Souza Escobar](https://www.linkedin.com/in/francisco-escobar/)
 
 ---
 
